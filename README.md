@@ -10,3 +10,4 @@ AS A project team member with multiple tasks to organize
 I WANT a task board 
 SO THAT I can add individual project tasks, manage their state of progress and track overall project progress accordingly
 ```
+<img width="1514" alt="Screen Shot 2024-12-14 at 2 40 35 PM" src="https://github.com/user-attachments/assets/381f5e00-7c60-4b79-9412-47443f4372c7" />
